@@ -1,6 +1,7 @@
 # ZIGDC-TEAM-B PROJECT DESCRIPTION
 
 Game: 2d platformer
+
 Game Mechanics: walk, jump, collect,fly, and puzzle
 
 Game Title: (subject for discussion)
