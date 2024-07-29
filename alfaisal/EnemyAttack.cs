@@ -7,7 +7,7 @@ public class EnemyAttack : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        console.log("hello world);
     }
 
     // Update is called once per frame
